@@ -3,4 +3,6 @@ Line 2 of original content of dd.txt - modified by Jay
 Line 3 of original content of dd.txt - modified in cloned
 Jay added this line, testing conflict
 Jay Added this line online from github.com 
+Jay added this line OK online
+Jay Added this line online from github.com
 Wish we get pull the change from the client tool
